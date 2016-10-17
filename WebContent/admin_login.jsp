@@ -22,7 +22,6 @@
 
 		<br> <br>
 
-		<s:form action="GoAdminLogin">
 			<table>
 				<tr>
 					<th>ＩＤ：</th>
@@ -36,7 +35,6 @@
 			</table>
 			<s:submit type="button" value="ログイン" />
 
-		</s:form>
 
 	</div>
 </body>
